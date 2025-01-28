@@ -133,7 +133,7 @@ footer p {
     margin: 0;
     font-size: 0.9rem;
 }
-/* Responsive design */
+
 @media (max-width: 600px) {
     nav ul {
         flex-direction: column;
